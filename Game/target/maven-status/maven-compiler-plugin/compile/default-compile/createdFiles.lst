@@ -1,0 +1,4 @@
+entity\Users.class
+entity\Questions.class
+entity\ScoreEntity.class
+entity\Answers.class
